@@ -65,8 +65,3 @@ Enter Cereal: Weetbix <br />
 <br />
 *Output Example*<br />
 [‘Cheerios’, ‘Nutri Grain’, ‘Cinnamon Toast Crunch’, ‘Corn Flakes’]
-
-
-
-
-
